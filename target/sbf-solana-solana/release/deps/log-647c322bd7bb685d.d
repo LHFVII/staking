@@ -1,0 +1,10 @@
+/Users/rodriguezpatricio/Desktop/Deving/Blockchain/Building/Solana/Tutorials/staking-program/target/sbf-solana-solana/release/deps/liblog-647c322bd7bb685d.rmeta: /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/rodriguezpatricio/Desktop/Deving/Blockchain/Building/Solana/Tutorials/staking-program/target/sbf-solana-solana/release/deps/liblog-647c322bd7bb685d.rlib: /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/rodriguezpatricio/Desktop/Deving/Blockchain/Building/Solana/Tutorials/staking-program/target/sbf-solana-solana/release/deps/log-647c322bd7bb685d.d: /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs:
+/Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs:
+/Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs:
+/Users/rodriguezpatricio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs:

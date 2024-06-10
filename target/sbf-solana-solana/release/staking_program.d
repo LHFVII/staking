@@ -1,0 +1,1 @@
+/Users/rodriguezpatricio/Desktop/Deving/Blockchain/Building/Solana/Tutorials/staking-program/target/sbf-solana-solana/release/staking_program.so: /Users/rodriguezpatricio/Desktop/Deving/Blockchain/Building/Solana/Tutorials/staking-program/programs/staking-program/src/lib.rs
