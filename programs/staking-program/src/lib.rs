@@ -122,7 +122,6 @@ pub struct Initialize<'info> {
         token::authority= token_vault_account,
     )]
     pub token_vault_account: Account<'info,TokenAccount>,
-    // To mint other accounts?
     pub mint: Account<'info,Mint>,
     pub token_program: Program<'info, Token>,
     pub system_program: Program<'info, System>
@@ -130,11 +129,9 @@ pub struct Initialize<'info> {
 
 #[derive(Accounts)]
 pub struct Stake<'info>{
-    // sometimes accounts will be created (someone has to sign it)
     #[account(mut)]
     pub signer: Signer<'info>,
     
-    //PDA
     #[account(
         init_if_needed,
         seeds = [constants::STAKE_INFO_SEED, signer.key.as_ref()],
@@ -144,7 +141,6 @@ pub struct Stake<'info>{
     )]
     pub stake_info_account: Account<'info, StakeInfo>,
 
-    //PDA
     #[account(
         init_if_needed,
         seeds = [constants::TOKEN_SEED, signer.key.as_ref()],
@@ -155,7 +151,6 @@ pub struct Stake<'info>{
     )]
     pub stake_account: Account<'info,TokenAccount>,
     
-    // outside the program
     #[account(
         mut,
         associated_token::mint = mint,
